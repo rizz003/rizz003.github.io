@@ -156,3 +156,10 @@ iframe {
 .player-card p {
     font-size: 0.9em;
 }
+
+#sfondo{
+    background-image: url('images/sfondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
